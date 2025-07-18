@@ -1,11 +1,7 @@
 import React from 'react';
 import { 
-    View,
-     Text,
      SafeAreaView,
-     TouchableOpacity,
-     StyleSheet} from 'react-native';
-import Ionicons from 'react-native-vector-icons/Ionicons';
+} from 'react-native';
 import ContactRow from '../components/ContactRow';
 import Separator from '../components/Separator';
 
